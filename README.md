@@ -1,0 +1,2 @@
+# live_object_detection
+live object detection using ssd_mobilenet_v1_coco_11_06_2017
